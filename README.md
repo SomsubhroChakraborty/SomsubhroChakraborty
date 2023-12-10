@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js, node.js, Sql**
 
-- 📫 How to reach me **sc.chakraborty2003@gmail.com**
+- 📫 How to reach me **somsubhrochakraborty07@gmail.com**
 
 - ⚡ Fun fact **Coder without coffee**
 
