@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somsubhrochakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="somsubhrochakraborty" /> </p>
 
 
-- 🌱 I’m currently learning **React.js, node.js, Sql**
+- 🌱 I’m currently learning **Express.js, node.js**
 
 - 📫 How to reach me **somsubhrochakraborty07@gmail.com**
 
