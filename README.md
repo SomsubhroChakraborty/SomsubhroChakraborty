@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/somsubhro chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somsubhro chakraborty" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@somsubhrochakra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@somsubhrochakra" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@Somsubhroo7" target="blank"><img align="center" src="https://imgs.search.brave.com/L2i0DyEXSaFeC-4pMqtlyNrmzCxmWn-C1LosR3RXY1Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aGFzaG5vZGUuY29t/L3Jlcy9oYXNobm9k/ZS9pbWFnZS91cGxv/YWQvdjE2MTE5MDI0/NzMzODMvQ0R5QXVU/eTc1LnBuZz9hdXRv/PWNvbXByZXNz" alt="@somsubhrochakra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
