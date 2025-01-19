@@ -30,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somsubhrochakraborty&show_icons=true&locale=en" alt="somsubhrochakraborty" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somsubhrochakraborty&" alt="somsubhrochakraborty" /></p>
 
