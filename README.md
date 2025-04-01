@@ -78,4 +78,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somsubhrochakraborty&show_icons=true&locale=en" alt="somsubhrochakraborty" /></p>
 
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
