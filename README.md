@@ -6,7 +6,7 @@
 <!-- Profile Summary Stats -->
 
 ## 👨‍💻 About Me
-<div align="left>
+<div>
   
 Passionate Full-Stack Developer from Kolkata, crafting scalable web applications with clean code and modern tools. Currently deepening expertise in **Laravel** and the PHP ecosystem.
 
