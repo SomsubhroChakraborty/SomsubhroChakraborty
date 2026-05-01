@@ -37,6 +37,9 @@ Passionate Full-Stack Developer from Kolkata, crafting scalable web applications
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
 </td>
 <td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" alt="Vue" width="50" height="50" />
+</td>
+<td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
 </td>
 <td align="center">
